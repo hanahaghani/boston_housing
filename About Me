@@ -1,0 +1,18 @@
+A data science student with a strong focus on building interpretable machine learning models.
+In this project, I applied Linear Regression on the Boston Housing dataset to predict housing prices while emphasizing data quality and model explainability.
+
+Project Highlights:
+
+Conducted structured EDA to understand feature behavior and correlations
+
+Applied feature engineering and removed non-informative variables
+
+Implemented scaling techniques (Standardization/Normalization) for stable model performance
+
+Evaluated the model using MAE, MSE, RMSE, and R²
+
+Documented the workflow clearly to support reproducibility
+
+
+This project strengthened my foundational skills in regression modeling, data preprocessing, and insight-driven analysis—skills I aim to expand as I transition further into machine learning and deep learning.
+
